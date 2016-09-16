@@ -1,11 +1,5 @@
-stanford_dl_ex
-==============
+Stanford Deep learning solutions
+=========
+This contains solutions for Deep learning tutorial at http://ufldl.stanford.edu/tutorial/
 
-Programming exercises for the Stanford Unsupervised Feature Learning and Deep Learning Tutorial
-
-This repository contains starter code for the tutorial at http://ufldl.stanford.edu/tutorial
-
-If you have suggestions, questions, or bug reports, please submit contact:
-
-Andrew Maas ( amaas AT cs dot stanford.edu)
-Sameep Tandon (sameep AT stanford dot edu)
+You can get starter code from website and this is solutions for excercise in that starter code.
